@@ -1,0 +1,11 @@
+.container{
+  margin-top: 1%;
+}
+.btn-secondary{
+  color :black;
+  margin: 5px;
+  box-shadow: -1px 5px 30px black;
+}
+h1{
+  text-shadow: -10px 10px 20px black;
+}
